@@ -13,3 +13,6 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# txt 
+*.txt~
+
