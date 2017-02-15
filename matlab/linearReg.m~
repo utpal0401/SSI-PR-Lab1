@@ -1,0 +1,6 @@
+% function that computer linear regression parameters w given input
+% features X and output variables y
+% close formed solution w = (X'X)^(-1) X'y
+function w = linearReg(X, y)
+
+
