@@ -1,0 +1,15 @@
+# gitignore
+.gitignore~
+*.~
+
+
+# python 
+*.py~
+
+# matlab
+*.m~
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
